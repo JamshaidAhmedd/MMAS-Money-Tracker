@@ -1,6 +1,4 @@
-Here’s a generic rewrite for a basic open-source expense tracking app template:
-
----
+ 
 
 # Teter: Expense Tracker
 
@@ -39,5 +37,4 @@ Follow these steps to set up the project:
   </tbody>
 </table>
 
-## License
-Teter: Expense Tracker is open-source and available under the [MIT License] 
+ 
